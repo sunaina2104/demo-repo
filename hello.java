@@ -12,3 +12,10 @@ class abc
         System.out.println("hello sunaina");
     }
 }
+class xyz
+{
+	public static void main(String[] args)
+	{
+		System.out.println("hellor world");
+	}
+}
